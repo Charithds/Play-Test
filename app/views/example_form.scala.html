@@ -1,0 +1,23 @@
+@import helper._
+@()
+<form action="/test" method="post">
+    @CSRF.formField
+    <fieldset>
+        <legend>Element information:</legend>
+        Element:<br>
+        <input type="text" name="element" ><br>
+        Atomic Number:<br>
+        <input type="text" name="atomicNumber" ><br>
+        Symbol:<br>
+        <input type="text" name="symbol"><br>
+        Metal Group:<br>
+        <input type="text" name="metalGroup"><br>
+
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+                <button id="submit" type="submit" value="Submit" class="btn btn-primary">Submit</button>
+                <button id="cancel" class="btn cancel">Cancel</button>
+            </div>
+        </div>
+    </fieldset>
+</form>

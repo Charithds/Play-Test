@@ -1,0 +1,38 @@
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+sbt clean
+play clean
+clean
+build
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+run
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure1.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure1.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure1.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure21340.xml
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure2053.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure12045.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure12094.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}root/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure23271.xml
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure7616.xml
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure24230.xml
+all {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}myProject/products {file:/C:/Users/chariths/Documents/Play_tutorials/Test_My/test_my/}myProject/test:products
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure3285.xml
+;reload; set org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo C:/Users/chariths/AppData/Local/Temp/sbt-structure24380.xml
